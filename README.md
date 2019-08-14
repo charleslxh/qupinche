@@ -1,4 +1,4 @@
-#App List
+# App List
 1. php + nginx + mysql + redis + npm
 2. kingshard
     https://github.com/flike/kingshard
@@ -10,7 +10,7 @@
 6. deploy-php
     https://github.com/deployphp/deployer
 
-#Package List
+# Package List
 1. yaf
     http://www.laruence.com/manual/
 2. phpactiverecord
@@ -21,11 +21,11 @@
     https://github.com/chrisboulton/php-resque
 
 
-#TODO
+# TODO
 ElasticSearch
 global id
 
-#For publish environment
+# For publish environment
 composer dump-autoload --optimize
 
 
